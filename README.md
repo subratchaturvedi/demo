@@ -1,3 +1,4 @@
 # demo
 this is my first git repository
-author-SUBRAT CHATURVEDI
+<br>
+Author-SUBRAT CHATURVEDI
